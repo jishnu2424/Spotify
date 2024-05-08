@@ -1,0 +1,145 @@
+.div1{
+    background-color: rgb(25, 230, 140);
+    width: 100%;
+    height: 730px;
+}
+.img1{
+   position: absolute;
+   left: 650px;
+   top: 100px;
+   width: 200px;
+   height: 200px;
+}
+.img2{
+    position: absolute;
+    left: 727px;
+    top: 170px;
+}
+.img3{
+    position: absolute;
+    left: 743px;
+    top: 188px;
+}
+.h1{
+   
+   position: absolute;
+   top: 300px;
+   left: 550px;
+   font-weight: bold;
+   font-size: 45px;
+}
+.button1{
+        background-image: url("https://get.microsoft.com/images/en-us%20dark.svg");
+        background-size: cover;
+        background-position: center;
+        color: white; 
+        padding: 10px 20px;
+        border: none;
+        border-radius: 10px;
+        cursor: pointer;
+        width: 250px;
+        height: 100px;
+        position: absolute;  
+        left: 620px;
+        top: 450px;
+}
+.p1{
+    position: absolute;
+    left: 560px;
+    top: 380px;
+    font-weight: bold;
+}
+.a1{
+    font-weight: bold;
+    position: absolute;
+    left: 620px;
+    top: 580px;
+    color: black;
+}
+.div2{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    color: black;
+}
+.h2{
+    position: absolute;
+    top: 860px;
+    left: 450px;
+    font-weight: bold;
+}
+.pp1{
+    position: absolute;
+    top: 920px;
+    left: 570px;
+    font-weight: bold;
+}
+.button2{
+    background-image: url("https://www-growth.scdn.co/static/badges/svgs/apple/badge-en.svg");
+    background-size: cover;
+    background-position: center;
+    color: white; 
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 130px;
+    height: 40px;
+    margin-left:580px;
+    margin-top: 180px;
+}
+.button3{
+    background-image: url("https://www-growth.scdn.co/static/badges/svgs/google/badge-en.svg");
+    background-size: cover;
+    background-position: center;
+    color: white; 
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 130px;
+    height: 40px;
+}
+.button4{
+    background-image: url("https://www-growth.scdn.co/static/badges/microsoft-windows/en.png");
+    background-size: cover;
+    background-position: center;
+    color: white; 
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 130px;
+    height: 40px;
+}
+.div3{
+    background-color: rgb(34, 35, 38);
+    width: 100%;
+    height: 500px;
+}
+.img4{
+    height: 200px;
+    width: 500px;
+    position: absolute;
+    top: 1120px;
+    left: 500px;
+}
+.hh2{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    top: 1310px;
+    left: 450px;
+}
+
+.list{
+    display: flex;
+    position: absolute;
+    top: 1450px;
+    left: 250px;
+    
+}
+.lit{
+    margin-left: 40px;
+}

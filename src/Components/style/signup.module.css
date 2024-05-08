@@ -1,0 +1,121 @@
+.div1{
+    width: 100%;
+    height: 700px;
+    background-color:#121212 ;
+}
+.h1{
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+   margin-left: 600px;
+    text-align: left;
+}
+.form1{
+    margin-left: 600px;
+    margin-top: 40px;
+}
+.email{
+    color: white;
+}
+.em{
+    height: 40px;
+    width: 300px;
+    background-color: #121212;
+    border: 2px  solid gray;
+}
+.button1{
+    height: 50px;
+    width: 300px;
+    border-radius: 20px;
+    background-color:#1fdf64 ;
+    color: #242424;
+    font-weight: bold;
+}
+.hr1{
+    border: 1px solid white;
+    width: 120px;
+}
+.hr2{
+    border: 1px solid white;
+    width: 120px;
+    position: absolute;
+    top: 405px;
+    left: 780px;
+}
+.or{
+    position: absolute;
+    top: 408px;
+    left: 740px;
+    color: white;
+    font-weight: bold;
+}
+.google{
+    height: 50px;
+    width: 300px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold; 
+    background-color: #121212;
+    border: 2px gray solid;
+ 
+}
+.google:hover{
+    border: 2px white solid;
+}
+.facebook{
+    height: 50px;
+    width: 300px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    background-color: #121212;
+    border: 2px gray solid;
+}
+.facebook:hover{
+    border: 2px white solid;
+}
+.apple{
+    height: 50px;
+    width: 300px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    background-color: #121212;
+    border: 2px gray solid;
+}
+.apple:hover{
+    border: 2px white solid;
+}
+.icgoogle{
+    margin-right: 20px;
+    width: 30px;
+    height: 30px;
+}
+.icfacebook{
+    margin-right: 20px;
+    width: 30px;
+    height: 30px; 
+    color: rgb(56, 56, 196); 
+}
+.icapple{
+    margin-right: 20px;
+    width: 30px;
+    height: 30px; 
+    color: white;
+}
+.hr3{
+    border: 1px solid grey;
+    width: 300px;
+}
+.acc{
+    color: white;
+    margin-left: 20px;
+}
+.h6{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    position: absolute;
+    top: 640px;
+    left: 630px;
+}

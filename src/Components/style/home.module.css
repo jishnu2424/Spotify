@@ -1,0 +1,154 @@
+
+
+.div1{
+    width: 100%;
+    
+    background-image:url(https://www.scdn.co/i/free/bubbles-dktp.svg) , linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166));
+    height: 600px;
+    background-repeat: no-repeat;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    }
+    .h1{
+        color: white;
+        font-weight: 900;
+        line-height: 1.15;
+        letter-spacing: -1.92px;
+        padding-bottom: 32px;
+        font-size: 64px;
+        position: relative;
+        left: 00px;
+        top: 150px;
+    }
+    .button1{
+        height: 50px;
+        width: 200px;
+        border-radius: 40px;
+        position: absolute;
+        left: 450px;
+        top: 530px;
+        border: none;
+    }
+    .button1:hover{
+        font-size: larger;
+    }
+    .div2{
+        width: 100%;
+        height: 600px;
+        color: black;
+        background-color: white;
+    }
+    .img1{
+        margin-left: 105px;
+        margin-top: 100px;
+    }
+    .img2{
+        margin-left: 250px;
+        margin-top: 100px;
+    }
+    .h2{
+        margin-left: 235px;
+        margin-top: 50px;
+        font-size: 20px;
+        font-weight: bold;
+        position: absolute;
+        left: 0px;
+        top: 990px;
+    }
+    .h21{
+        position: absolute;
+        left: 515px;
+        top: 1040px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .h22{
+        position: absolute;
+        left: 825px;
+        top: 1040px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .h23{
+        position: absolute;
+        left: 1085px;
+        top: 1040px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .p1{
+        position: absolute;
+        left: 200px;
+        top: 1070px;
+        text-align: center;
+    }
+    .p2{
+        position: absolute;
+        left:  490px;
+        top: 1070px;
+        text-align: center;
+    }
+    .p3{
+        position: absolute;
+        left:  780px;
+        top: 1070px;
+        text-align: center;
+    }
+    .p4{
+        position: absolute;
+        left:  1050px;
+        top: 1070px; 
+        text-align: center;
+    }
+    .div3{
+        text-align: center;
+        color: white;
+        width: 100%;
+        height: 400px;
+        background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+    }
+    .div3h{
+        position: relative;
+        top: 150px;
+        font-size: 40px;
+        font-weight: bold;
+    }
+    .h11{
+        color: black;
+        background-color: white;
+        text-align: center;
+    
+    }
+    .ah{
+        font-size: 25px;
+        color: black;
+        font-weight: bold;
+    }
+    .div4{
+        width: 100%;
+        height: 400px;
+        background: url(https://www.scdn.co/i/free/lets-play.svg) left -10px bottom -160px / 100% 1114px no-repeat, linear-gradient(-45deg, rgb(108, 14, 224) 16%, rgb(240, 55, 166)) rgb(108, 14, 224);
+        background-position: left -10px bottom -160px;
+        background-color: white;
+    }
+    .div4p{
+        position: relative;
+        top: 150px;
+        color: white;
+        text-align: center;
+        font-size: 55px;
+        font-weight: bold;
+    }
+    .button2{
+        height: 50px;
+        width: 200px;
+        border-radius: 40px;
+        position: relative;
+        left: 650px;
+        top: 200px;
+        border: none;
+    }
+    .button2:hover{
+        font-size: larger;
+    }
